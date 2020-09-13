@@ -6,4 +6,7 @@ This repository is a fork of Landon Schropp&apos;s exercises focused on the thre
 - ```Array.prototype.filter()```
 - ```Array.prototype.reduce()```
 
+The exercises in this are comprised of unit tess using [Jestjs.io](https://jestjs.io) and contain my implementations of
+solutions to the exercises.
+
 For further information, please consult the [wiki](https://github.com/RHieger/bobby-exercises/wiki)  
